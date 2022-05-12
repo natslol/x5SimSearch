@@ -1,6 +1,6 @@
 # x5SimSearch
 
-[Rust Version of 5SimSearcher(C#)](https://github.com/Wizz1337/5SimSearcher)
+[Rust Version of 5SimSearcher(C#)](https://github.com/HideakiAtsuyo/5SimSearcher)
 
 cantbuild or lazy ? [download](https://github.com/Natslpb/x5SimSearch/releases/tag/1.0)
 
